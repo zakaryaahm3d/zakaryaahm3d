@@ -2,17 +2,12 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=zakaryaahm3d&fontSize=44&animation=twinkling&stroke=ffffff&strokeWidth=1"
+    src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=120&section=header&text=zakaryaahm3d&fontSize=44&animation=twinkling&stroke=ffffff&strokeWidth=1"
     alt="Animated header banner"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=7DF9FF&width=860&lines=BS+in+Data+Science+%F0%9F%93%A2+%40+GIKI;Researcher+%26+Marketing+Officer+%E2%9C%A8;EcoBite+%28Microsoft+Imagine+Cup%29+%7C+Azure+AD+B2C;Built+500%2B+meals%2Fweek+%26+%2B30%25+donation+conversion;C%2B%2B+low-latency+HTTP+%26+Dijkstra+Smart+Routing"
-    alt="Typing SVG tagline"
-  />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=900&color=3B82F6&width=860&lines=BS+in+Data+Science+%F0%9F%93%A2+%40+GIKI;Researcher+%26+Marketing+Officer+%E2%9C%A8;EcoBite+%28Microsoft+Imagine+Cup%29+%7C+Azure+AD+B2C;Built+500%2B+meals%2Fweek+%26+%2B30%25+donation+conversion;C%2B%2B+low-latency+HTTP+%26+Dijkstra+Smart+Routing;%F0%9F%A5%88+2nd+Place+with+%22Skill+Issue%22" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Online indicator" />
@@ -50,13 +45,13 @@
 \x1b[1;33mloading... \x1b[0mproject://C%2B%2B+systems+%26+CLI+games\x1b[0m
 
 \x1b[1;32mstatus://ready\x1b[0m
-\x1b[1;37mlocation://Topi%2C+Swabi%2C+KPK%2C+Pakistan\x1b[0m
+\x1b[1;37mlocation://Lahore%2C+Pakistan\x1b[0m
 \x1b[1;35mfun://when code breaks, I debug it (until it behaves)\x1b[0m
 
 type `help` for topics:
 - AI in scientific research
 - Azure AD B2C + data persistence + Azure Maps logistics
-- C++ low-latency systems & algorithms
+- DSA & OOP or maybe DBMS
 ```
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&text=&section=separator)
@@ -86,13 +81,13 @@ type `help` for topics:
   "ask_me_about": [
     "AI in scientific research (LLMs + ML for literature analysis)",
     "Azure AD B2C auth flows + Azure SQL persistence + Azure Maps logistics tracking",
-    "C++ DSA: Dijkstra, priority queues, hash maps, TCP request parsing"
+    "C++ DSA: Dijkstra, priority queues, hash maps"
   ],
   "fun_fact": "I built a low-latency HTTP server in C++ from scratch using Winsock2 (raw TCP/IP included).",
   "philosophy": "Build, measure, iterate. Ship when it works. Refactor when it doesnt.",
   "email": "zakaryaahmadpro@gmail.com",
   "open_to": [
-    "Research collaborations in AI-for-science",
+    "Research collaborations",
     "Full-stack projects using Azure",
     "Systems/algorithm challenges (C++ is my happy place)"
   ]
@@ -104,18 +99,18 @@ type `help` for topics:
 <h2 id="character-sheet">✦ Character Sheet</h2>
 
 ```txt
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃  STATS (built from my skills) ┃
-  ┣━━━━━━━┳━━━━━━━━━━━━━━━┳━━━━━━┫
-  ┃ STAT   ┃ WHAT IT MEANS  ┃ VAL% ┃
-  ┣━━━━━━━╋━━━━━━━━━━━━━━━╋━━━━━━┫
-  ┃ STR     ┃ systems stamina  ┃ 78% ┃
-  ┃ INT     ┃ DS&A + ML brains ┃ 92% ┃
-  ┃ DEX     ┃ hands-on debugging ┃ 80% ┃
-  ┃ WIS     ┃ research curiosity ┃ 82% ┃
-  ┃ CHA     ┃ marketing/outreach ┃ 71% ┃
-  ┃ LCK     ┃ compile-time luck ┃ 64% ┃
-  ┗━━━━━━━┻━━━━━━━━━━━━━━━┻━━━━━━┛
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃  STATS (built from my skills)   ┃
+  ┣━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━┫
+  ┃ STAT ┃ WHAT IT MEANS ┃ VAL%     ┃
+  ┣━━━━━━╋━━━━━━━━━━━━━━━━━━━━╋━━━━━┫
+  ┃ STR  ┃ systems stamina    ┃ 78% ┃
+  ┃ IN   ┃ DS&A + ML brains   ┃ 92% ┃
+  ┃ DE   ┃ hands-on debugging ┃ 80% ┃
+  ┃ WIS  ┃ research curiosity ┃ 82% ┃
+  ┃ CHA  ┃ marketing/outreach ┃ 71% ┃
+  ┃ LCK  ┃ compile-time luck  ┃ 64% ┃
+  ┗━━━━━━┻━━━━━━━━━━━━━━━━━━━━┻━━━━━┛
 ```
 
 ```txt
@@ -132,7 +127,7 @@ FUN STATS:
 
 ```txt
 ┌───────────────────────────────┐
-│  Ship Log (chronological)    │
+│  Ship Log (chronological)     │
 └───────────────────────────────┘
    2024-09  ★ Research & Leadership unlocked
             - Joined Undergraduate Research Opportunities (UROG)
@@ -221,15 +216,25 @@ FUN STATS:
 <b>Languages</b>
 - ![](https://skillicons.dev/icons?i=python,c,cpp,sql&theme=tokyonight)
 
-<b>Libraries / Frameworks</b>
-- ![](https://skillicons.dev/icons?i=numpy,pandas,matplotlib&theme=tokyonight)
-- ![](https://skillicons.dev/icons?i=sfml&theme=tokyonight)
+<b>Developer Tools</b>
+- ![](https://skillicons.dev/icons?i=vscode,visualstudio,colab,jupyter,dbeaver,git,github,postgres&theme=tokyonight)
 
-<b>Cloud / DB</b>
-- ![](https://skillicons.dev/icons?i=azure,postgresql&theme=tokyonight)
+<b>Libraries & Frameworks</b>
+- ![](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sfml&theme=tokyonight)
 
-<b>Tools</b>
-- ![](https://skillicons.dev/icons?i=vscode,visualstudio,git,github,colab,jupyter,postgres,dbeaver,azuredevops&theme=tokyonight)
+<b>Cloud & Platforms</b>
+- ![](https://skillicons.dev/icons?i=azure,azuredevops&theme=tokyonight)
+    - Azure (AD B2C, SQL, Maps)
+    - Azure DevOps
+
+<b>Concepts</b>
+<ul>
+    <li>Data Structures and Algorithms</li>
+    <li>Object-Oriented Programming</li>
+    <li>Machine Learning</li>
+    <li>REST APIs</li>
+    <li>Agile Development</li>
+</ul>
 
 </div>
 
@@ -243,7 +248,6 @@ FUN STATS:
     alt="GitHub stats"
   />
 </p>
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaryaahm3d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220"
