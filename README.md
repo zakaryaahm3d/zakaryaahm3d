@@ -209,33 +209,52 @@ FUN STATS:
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&text=&section=separator)
 
-<h2 id="tech-stack">✦ Tech Stack</h2>
+<h2>✦ Tech Stack</h2>
+<div>
 
-<div align="left">
+### Languages
 
-<b>Languages</b>
-- ![](https://skillicons.dev/icons?i=python,c,cpp,sql&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<b>Developer Tools</b>
-- ![](https://skillicons.dev/icons?i=vscode,visualstudio,colab,jupyter,dbeaver,git,github,postgres&theme=tokyonight)
+### Developer Tools
 
-<b>Libraries & Frameworks</b>
-- ![](https://skillicons.dev/icons?i=numpy,pandas,matplotlib,sfml&theme=tokyonight)
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
 
-<b>Cloud & Platforms</b>
-- ![](https://skillicons.dev/icons?i=azure,azuredevops&theme=tokyonight)
-    - Azure (AD B2C, SQL, Maps)
-    - Azure DevOps
+### Databases
 
-<b>Concepts</b>
-<ul>
-    <li>Data Structures and Algorithms</li>
-    <li>Object-Oriented Programming</li>
-    <li>Machine Learning</li>
-    <li>REST APIs</li>
-    <li>Agile Development</li>
-</ul>
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
+<br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 
+### Libraries & Frameworks
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge" />
+
+### Cloud & Platforms
+
+<img src="https://skillicons.dev/icons?i=azure&theme=dark" />
+<br><br>
+<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure_Maps-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+### Concepts
+
+<p>
+Data Structures & Algorithms • OOP • Machine Learning • REST APIs • Agile Development
+</p>
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&text=&section=separator)
