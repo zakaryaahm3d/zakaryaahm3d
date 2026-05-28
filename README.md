@@ -1,5 +1,3 @@
-# <div align="center">⚡️Zakarya Ahmad⚡️</div>
-
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=120&section=header&text=zakaryaahm3d&fontSize=44&animation=twinkling&stroke=ffffff&strokeWidth=1"
@@ -7,7 +5,12 @@
   />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=900&color=3B82F6&width=860&lines=BS+in+Data+Science+%F0%9F%93%A2+%40+GIKI;Researcher+%26+Marketing+Officer+%E2%9C%A8;EcoBite+%28Microsoft+Imagine+Cup%29+%7C+Azure+AD+B2C;Built+500%2B+meals%2Fweek+%26+%2B30%25+donation+conversion;C%2B%2B+low-latency+HTTP+%26+Dijkstra+Smart+Routing;%F0%9F%A5%88+2nd+Place+with+%22Skill+Issue%22" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Zakarya Ahmad</h1>
+<h3 align="center">Data Science Student • Developer • Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Data+Science+Student;C%2FC%2B%2B+Developer;Machine+Learning+Enthusiast;Building+Cool+Projects+with+Code" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-online-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Online indicator" />
