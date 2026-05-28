@@ -102,18 +102,18 @@ type `help` for topics:
 <h2 id="character-sheet">✦ Character Sheet</h2>
 
 ```txt
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-  ┃  STATS (built from my skills)   ┃
-  ┣━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━┫
-  ┃ STAT ┃ WHAT IT MEANS ┃ VAL%     ┃
-  ┣━━━━━━╋━━━━━━━━━━━━━━━━━━━━╋━━━━━┫
-  ┃ STR  ┃ systems stamina    ┃ 78% ┃
-  ┃ IN   ┃ DS&A + ML brains   ┃ 92% ┃
-  ┃ DE   ┃ hands-on debugging ┃ 80% ┃
-  ┃ WIS  ┃ research curiosity ┃ 82% ┃
-  ┃ CHA  ┃ marketing/outreach ┃ 71% ┃
-  ┃ LCK  ┃ compile-time luck  ┃ 64% ┃
-  ┗━━━━━━┻━━━━━━━━━━━━━━━━━━━━┻━━━━━┛
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃  STATS (built from my skills)     ┃
+  ┣━━━━━━┳━━━━━━━━━━━━━━━━━━━━┳━━━━━━━┫
+  ┃ STAT ┃ WHAT IT MEANS      ┃  VAL% ┃
+  ┣━━━━━━╋━━━━━━━━━━━━━━━━━━━━╋━━━━━━━┫
+  ┃ STR  ┃ systems stamina    ┃  78%  ┃
+  ┃ IN   ┃ DSA + ML brains    ┃  92%  ┃
+  ┃ DE   ┃ hands-on debugging ┃  80%  ┃
+  ┃ WIS  ┃ research curiosity ┃  82%  ┃
+  ┃ CHA  ┃ marketing/outreach ┃  71%  ┃
+  ┃ LCK  ┃ compile-time luck  ┃  64%  ┃
+  ┗━━━━━━┻━━━━━━━━━━━━━━━━━━━━┻━━━━━━━┛
 ```
 
 ```txt
@@ -132,22 +132,22 @@ FUN STATS:
 ┌───────────────────────────────┐
 │  Ship Log (chronological)     │
 └───────────────────────────────┘
-   2024-09  ★ Research & Leadership unlocked
+   2024  ★ Research & Leadership unlocked
             - Joined Undergraduate Research Opportunities (UROG)
             - Marketing Officer: building research culture across campus
 
-   2024-12  ◆ Interactable Sudoku (CLI)
+   2024  ◆ Interactable Sudoku (CLI)
             - Fully playable C++ Sudoku with validation + win detection
 
-   2025-05  ◆ Arcade Simulator (SFML)
+   2025  ★ Arcade Simulator (SFML)
             - Snake + Flappy Bird with real-time rendering, collisions, audio
 
-   2025-08  🚀 EcoBite (Microsoft Imagine Cup)
+   2025  ◆ EcoBite (Microsoft Imagine Cup)
             - Multi-role donation platform with RBAC
             - Enabled NGO & recycler dashboards for weekly distribution of 500+ meals
             - Increased donation conversion by 30% using analytics + targeted UI
 
-   2025-12  ⚡ Magic Weather Bento
+   2025  ★ Magic Weather Bento
             - Low-latency C++ HTTP server (Winsock2) + raw TCP/IP parsing
             - Dijkstra smart routing weighted by weather severity + distance
             - Priority queues + hash maps to optimize alert ranking + city lookup
@@ -295,7 +295,7 @@ Data Structures & Algorithms • OOP • Machine Learning • REST APIs • Agil
 
 <h2 id="projects">✦ Projects</h2>
 
-### 🥗 EcoBite - Food Waste Management Platform (Microsoft Imagine Cup)
+### EcoBite - Food Waste Management Platform (Microsoft Imagine Cup)
 Full-stack donation platform with Azure auth + logistics tracking.
 
 - Built a multi-role donation platform with role-based access control for five distinct user roles.
@@ -305,7 +305,7 @@ Full-stack donation platform with Azure auth + logistics tracking.
 
 ---
 
-### 🌦️ Magic Weather Bento
+### Magic Weather Bento
 C++ low-latency HTTP + Dijkstra smart routing driven by weather severity.
 
 - Engineered a low-latency HTTP server in C++ from scratch using Winsock2, handling raw TCP/IP connections and request parsing without external frameworks.
@@ -315,7 +315,7 @@ C++ low-latency HTTP + Dijkstra smart routing driven by weather severity.
 
 ---
 
-### 🎮 Arcade Simulator
+### Arcade Simulator
 Two games in one: Snake and Flappy Bird, powered by SFML.
 
 - Designed and developed an interactive Arcade Simulator featuring two embedded games: Snake and Flappy Bird, using C++ and SFML.
@@ -325,7 +325,7 @@ Two games in one: Snake and Flappy Bird, powered by SFML.
 
 ---
 
-### 🔢 Interactable Sudoku
+### Interactable Sudoku
 CLI Sudoku with backtracking correction and validation.
 
 - Developed a fully playable command-line Sudoku game in C++ with intuitive user interface and real-time interactivity.
