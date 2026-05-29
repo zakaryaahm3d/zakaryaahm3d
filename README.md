@@ -284,6 +284,14 @@ FUN STATS:
 
 ![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakaryaahm3d&theme=react-dark&hide_border=true)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zakaryaahm3d/zakaryaahm3d/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zakaryaahm3d/zakaryaahm3d/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/zakaryaahm3d/zakaryaahm3d/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 </div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&text=&section=separator)
