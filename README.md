@@ -368,7 +368,7 @@ console.log(`Hey! ${"welcome aboard"} ✅`);
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer&text=thanks%20for%20stopping%20by&animation=twinkling&fontSize=26"
+    src="https://capsule-render.vercel.app/api?type=egg&color=gradient&height=90&section=footer&text=thanks%20for%20stopping%20by&animation=twinkling&fontSize=36"
     alt="Wavy footer banner"
   />
 </p>
