@@ -268,32 +268,23 @@ FUN STATS:
 
 <h2 id="github-stats">✦ GitHub Stats</h2>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=zakaryaahm3d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220"
-    alt="GitHub stats"
-  />
-</p>
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaryaahm3d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220"
-    alt="Top languages"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=zakaryaahm3d&theme=tokyonight&hide_border=true"
-    alt="Streak stats"
-  />
-</p>
+![GitHub stats](https://github-readme-stats.shion.dev/api?username=zakaryaahm3d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b1220)
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=zakaryaahm3d&theme=react-dark&hide_border=true"
-    alt="Activity graph"
-  />
-</p>
+<br>
+
+![Top languages](https://github-readme-stats.shion.dev/api/top-langs/?username=zakaryaahm3d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b1220)
+
+<br>
+
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zakaryaahm3d&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zakaryaahm3d&theme=react-dark&hide_border=true)
+
+</div>
 
 ![](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10&text=&section=separator)
 
