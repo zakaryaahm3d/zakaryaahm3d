@@ -217,46 +217,50 @@ FUN STATS:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Developer Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" />
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)](https://skillicons.dev)
-<br><br>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Libraries & Frameworks
+### Data Science and Machine Learning
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge" />
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2F4F4F?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2F4F4F?style=for-the-badge)
+![Statistical Modeling](https://img.shields.io/badge/Statistical%20Modeling-2F4F4F?style=for-the-badge)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-2F4F4F?style=for-the-badge)
 
 ### Cloud & Platforms
 
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" />
-<br><br>
-<img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure_Maps-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Version Control](https://img.shields.io/badge/Version%20Control-2F4F4F?style=for-the-badge)
 
 ### Concepts
 
 <p>
-Data Structures & Algorithms • OOP • Machine Learning • REST APIs • Agile Development
+  • Data Structures & Algorithms 
+  • OOP 
+  • Machine Learning 
+  • DBMS 
 </p>
 </div>
 
